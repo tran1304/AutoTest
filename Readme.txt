@@ -1,6 +1,4 @@
-Thông tin thành viên nhóm:
-52100138 - Nguyễn Anh Tú
-52100898 - Lê Hoàng Khang
+Thông tin thành viên:
 52100937 - Ao Thuỵ Ngọc Trân
 
 Link trang web: https://final-swat-2324.netlify.app/
