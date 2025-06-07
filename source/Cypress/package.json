@@ -1,0 +1,17 @@
+{
+  "name": "final-automated-testing",
+  "version": "1.0.0",
+  "description": "testing single page application with cypress",
+  "main": "index.js",
+  "author": "52100138_52100898_52100937",
+  "license": "MIT",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.9.0",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-promise": "^1.1.0"
+  }
+}
